@@ -5,20 +5,20 @@
 
 ## Kütüphaneler
 
--react-native
--react-native-gesture-handler
--react-native-safe-area-context
--react-native-screens
--react-redux
--redux
--redux-devtools-extension
--redux-logger
--redux-thunk
--@react-navigation/bottom-tabs
--@react-navigation/native
--@react-navigation/stack
--expo
--expo-status-bar
+- react-native
+- react-native-gesture-handler
+- react-native-safe-area-context
+- react-native-screens
+- react-redux
+- redux
+- redux-devtools-extension
+- redux-logger
+- redux-thunk
+- @react-navigation/bottom-tabs
+- @react-navigation/native
+- @react-navigation/stack
+- expo
+- expo-status-bar
 
 <img src="getir.gif" />
-# Getir-Clone
+
